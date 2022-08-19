@@ -20,7 +20,7 @@ namespace CSclass2
 
 
             Products p = new Products();
-            Console.WriteLine("오늘의 점심 메뉴는 " + p[3]+"입니다.");
+            //Console.WriteLine("오늘의 점심 메뉴는 " + p[3]+"입니다.");
             p[2] = "단무지";
             //Console.WriteLine("오늘의 점심 메뉴는 " + p[2] + "입니다. ");
 

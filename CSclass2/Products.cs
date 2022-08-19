@@ -14,7 +14,7 @@ namespace CSclass2
             get { return items[i]; }
             set {
                 items[i] = value;
-                Console.WriteLine(i + "번쨰 상품을 " + value + "로 설정");
+                Console.WriteLine(i + "번째 상품을 " + value + "로 설정");
             }
         }
     }
