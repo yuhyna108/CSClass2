@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSclass2
 {
+    //zjal
     internal class Program
     {
         static void Main(string[] args)
