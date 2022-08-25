@@ -8,7 +8,6 @@ namespace CSclass2
 {
     class Products
     {
-        //어ㅗ란ㅇㅇㅇ
         private List<string> items = new List<string>() { "짜장면", "짬뽕", "탕수육" };
         public string this[int i]
         {
